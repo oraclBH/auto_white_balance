@@ -5,4 +5,4 @@ A white balance algorithm based on dark channel priority.
  Finally, in order to correct the color and ensure that the image brightness does not change, the correction gain is calculated in ciE-XYZ color space relative to the     brightness channel Y  
 
 
-https://github.com/oraclBH/auto_white_balance/blob/main/Screenshots/result.jpg
+![image](https://github.com/oraclBH/auto_white_balance/blob/main/Screenshots/result.jpg)
